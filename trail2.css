@@ -1,0 +1,61 @@
+.box{
+    background-color:yellow;
+    height: 40px;
+    width: 105px;
+    border-radius: 4px;
+    padding-top:5px;
+  
+}
+.main{
+display: flex;
+gap:5px;
+text-align: center;
+justify-content: center;
+flex-wrap:wrap;
+column-gap: 20px;
+row-gap: 20px;
+
+
+    
+}
+body{
+    height: 100vh;
+}
+.one{
+    color:blueviolet;
+    background-color: aquamarine;
+}
+button{
+    
+    border:none;
+    height:30px;
+    width:300px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.button1{
+    background-color: red;
+
+}
+.button2{
+    background-color: green;
+}
+.main1{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+body{
+    background-color: pink;
+}
+.new{
+    background-color:green;
+    color:white;
+}
+.shock{
+    border: 5px solid red;
+}
+
